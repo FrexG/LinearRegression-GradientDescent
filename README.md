@@ -1,2 +1,2 @@
 # LinearRegression-GradientDescent
-A simple visual implementation of linear regretion using Gradient Descent
+A simple visual implementation of linear regression using Gradient Descent
